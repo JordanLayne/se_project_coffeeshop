@@ -1,8 +1,12 @@
 .recipes{
     padding-top: 100px;
     padding-bottom: 215px;
+    position: relative;
+    box-sizing: border-box;
     background-color: #ffffff;
     background-image: url(../images/background_recipes.svg);
+    background-position: center;
+    background-size: cover;
 }
 
 .recipes__title{

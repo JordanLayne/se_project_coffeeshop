@@ -5,4 +5,7 @@
     font-family: "Inter", ariel, sans-serif;
     font-size: 16px;
     line-height: 20px;
+    background-color: #ffffff;
+    color: black;
+    border: solid #838383;
 }
