@@ -58,7 +58,7 @@ height: 16px;
     text-decoration: none;
     display: flex;
     align-items: center;
-    transition: color .15s ;
+    transition: color .15s;
   }
   .footer__social-link:hover {
     color: #c1c1c1;
