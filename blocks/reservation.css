@@ -8,9 +8,6 @@
     background-position: center;
     background-size: cover;
 }
-.container__form {
-    height: 100%;
-  }
 .reservation__title{
     display: flex;
     justify-content: center;
