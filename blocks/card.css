@@ -17,11 +17,10 @@
     padding: 0;
 }
 .card__list-item {
-    font-family: "Noto Serif", serif;
     display: flex;
     align-items: baseline;
     margin-bottom: 16px;
-    font-family: Noto Serif;
+    font-family: Noto serif;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
