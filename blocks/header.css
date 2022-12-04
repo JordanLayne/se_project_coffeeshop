@@ -22,13 +22,12 @@
     margin: 80px 0 0 80px;
   }
   .header__span-accent {
-    font-family: Noto Serif;
+    font-family: "Noto Serif";
     font-style: italic;
     font-weight: normal;
     font-size: 60px;
     line-height: 72px;
     color: #2F80ED;
-    font-weight: 400px;
     display: block;
   }
   
