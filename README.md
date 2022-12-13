@@ -12,5 +12,3 @@ This is the second project of the Software Engineer program at Practicum by Yand
 - A custom form
 - CSS animation and transform
 
-## Plan on improving the project
-  I plan to learn more about styling and positioning. To help improve the flow and look of the website.
